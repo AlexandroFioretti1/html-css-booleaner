@@ -1,11 +1,21 @@
-header {
-    background-image: url(./img/backgroundheader.png) 
+body
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+
 }
 
 
-
-
 header {
-    width: 226px;
-    height: 100px;
+    background-image: url(./img/backgroundheader.png);
+    width: 100%;
+    height: 100%;
+    background-color: rgb(89 157 235);
 }
+
+.logo {
+    width: 200px;
+    height: 300px;
+}
+
