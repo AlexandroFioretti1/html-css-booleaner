@@ -1,4 +1,11 @@
-body
-{
-    color: yellow;
+header {
+    background-image: url(./img/backgroundheader.png) 
+}
+
+
+
+
+header {
+    width: 226px;
+    height: 100px;
 }
