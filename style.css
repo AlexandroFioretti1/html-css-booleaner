@@ -1,15 +1,29 @@
-
-
-header {
+header 
+{
     background-image: url(./img/backgroundheader.png);
     width: 100%;
     height: 100%;
     background-color: rgb(89 157 235);
+    margin-top: none;
+    margin-left:none;
+    margin-right: none;
+}
+.img-main-right
+{
+   width: 642px
 }
 
-.logo {
-    width: 200px;
-    height: 300px;
+.imgmainleft
+{
+    width: 750px;
+}
+.logo 
+ {
+width: 300px;
+height: 120px;
+border-left-width: 200px;
+margin-left: 220px;
+margin-top: 0px;
 }
 
 .copyright 
@@ -17,33 +31,53 @@ header {
     text-align: left;
     margin-top: 20px;
 }
-
 .evidenziato
 {
 background:#FFFF00; 
 }
-
 .trcyan
 {
     background-color: cyan;
 }
-
 .thblue
 {
-    background-color: blue;
+    background-color: rgb(72, 155, 250);
+    color: white;
 }
-
 .thebooleaner
 {
     text-decoration: none;
+    color: blue
 }
 
 .interess
 {
     color: grey;
 }
-
 .block
 {
 inline-size: none;
+}
+main
+{
+    margin-left: 220px;
+    margin-right: 220px;
+}
+.img-up
+{
+    background-image: url(./img/footerup.jpg);
+    width: 300px;
+    height: 206px;
+    color:white;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+.img-down
+{
+    background-image: url(./img/footerunder.jpg);
+    width: 300px;
+    height: 206px;
+    color: white;
+    padding: 20px;
+    background-repeat: no-repeat;
 }
