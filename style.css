@@ -1,9 +1,7 @@
-body
-{
-    text-align: center;
-    margin-left: 100px;
-    margin-right: 100px;
 
+main
+{
+    text-align: center left;
 }
 
 
@@ -19,3 +17,13 @@ header {
     height: 300px;
 }
 
+.copyright 
+{
+    text-align: left;
+    margin-top: 20px;
+}
+
+.evidenziato
+{
+background:#FFFF00; 
+}
