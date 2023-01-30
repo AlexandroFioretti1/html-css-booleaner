@@ -22,3 +22,28 @@ header {
 {
 background:#FFFF00; 
 }
+
+.trcyan
+{
+    background-color: cyan;
+}
+
+.thblue
+{
+    background-color: blue;
+}
+
+.thebooleaner
+{
+    text-decoration: none;
+}
+
+.interess
+{
+    color: grey;
+}
+
+.block
+{
+inline-size: none;
+}
