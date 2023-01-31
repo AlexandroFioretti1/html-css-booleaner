@@ -1,3 +1,9 @@
+body{
+margin: 0;
+}
+
+
+
 header {
     background-image: url(./img/backgroundheader.png);
     width: 100%;
